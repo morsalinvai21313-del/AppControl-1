@@ -1,85 +1,36 @@
 {
-  "app_config": {
-    "maintenance": false,
-    "maintenance_msg": "🔧 Server is under maintenance! Please try again later."
+  "global_control": {
+    "is_maintenance": false,
+    "maintenance_msg": "🔧 সার্ভার রক্ষণাবেক্ষণ চলছে।",
+    "is_global_banned": false,
+    "global_ban_msg": "❌ অ্যাপটি সাময়িকভাবে বন্ধ আছে।",
+    "required_version": "1.0",
+    "global_update_url": "https://t.me/Sanny_king_zz",
+    "global_update_msg": "নতুন আপডেট এসেছে! দয়া করে নামিয়ে নিন।",
+    "admin_link": "https://t.me/Sanny_king_zz"
   },
   "users": [
     {
-      "id": "28ccf7adadc16dd5",
-      "name": "Sanny User",
+      "id": "18ccf7adadc16dd5",
+      "name": "Sanny Admin",
       "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "required_version": "1.1",
-      "update_msg": "New update is here! Click update button to download.",
-      "update_url": "https://t.me/Sanny_king_zz",
-      "renew_msg": " ইউজার আপনি আপনার অ্যাপের লিমিট শেষ করেছেন এই অ্যাপটি ব্যবহার করতে আবার নতুন করে আপনাকে লিমিট কিনতে হবে লিমিট কিনতে নিচের বাটনে ক্লিক করুন ",
-      "renew_url": "https://t.me/Sanny_king_zz"
+      "personal_notice": "স্বাগতম সানি ভাই!",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
     },
     {
-      "id": "USER_ID_2_HERE",
-      "name": "User 2",
-      "key": "KEY-USER-2",
+      "id": "DEVICE_ID_2",
+      "name": "Demo User",
+      "key": "KEY-123",
       "status": "active",
       "expiry": "none",
-      "required_version": "1.0",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
-    },
-    {
-      "id": "USER_ID_3_HERE",
-      "name": "User 3",
-      "key": "KEY-USER-3",
-      "status": "active",
-      "expiry": "none",
-      "required_version": "1.0",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
-    },
-    {
-      "id": "USER_ID_4_HERE",
-      "name": "User 4",
-      "key": "KEY-USER-4",
-      "status": "active",
-      "expiry": "none",
-      "required_version": "1.0",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
-    },
-    {
-      "id": "USER_ID_5_HERE",
-      "name": "User 5",
-      "key": "KEY-USER-5",
-      "status": "active",
-      "expiry": "none",
-      "required_version": "1.0",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
-    }
-  ]
-    }      "renew_msg": "",
-      "renew_url": ""
-    },
-    {
-      "id": "PUT_USER_5_DEVICE_ID_HERE",
-      "name": "User 5 Name",
-      "key": "KEY-USER-5",
-      "status": "active",
-      "expiry": "none",
-      "required_version": "1.0",
-      "personal_notice": "",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
+      "personal_notice": "আপনার জন্য বিশেষ অফার!",
+      "personal_version": "1.1",
+      "personal_update_msg": "আপনার জন্য আলাদা একটি আপডেট আছে!",
+      "personal_update_url": "https://t.me/Sanny_king_zz"
     }
   ]
 }
