@@ -1,12 +1,12 @@
 {
   "global_control": {
     "is_maintenance": false,
-    "maintenance_msg": "🔧 সার্ভার রক্ষণাবেক্ষণ চলছে।",
+    "maintenance_msg": "🔧 সার্ভার রক্ষণাবেক্ষণ চলছে। কিছুক্ষণ পর চেষ্টা করুন।",
     "is_global_banned": false,
-    "global_ban_msg": "❌ অ্যাপটি সাময়িকভাবে বন্ধ আছে।",
+    "global_ban_msg": "❌ অ্যাপটি সাময়িকভাবে বন্ধ রাখা হয়েছে।",
     "required_version": "1.0",
     "global_update_url": "https://t.me/Sanny_king_zz",
-    "global_update_msg": "নতুন আপডেট এসেছে! দয়া করে নামিয়ে নিন।",
+    "global_update_msg": "অ্যাপের নতুন আপডেট এসেছে! দয়া করে আপডেট করে নিন।",
     "admin_link": "https://t.me/Sanny_king_zz"
   },
   "users": [
@@ -17,20 +17,53 @@
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
       "personal_notice": "",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
+    },
+    {
+      "id": "DEVICE_ID_DEMO_2",
+      "name": "Demo User 2",
+      "key": "KEY-222",
+      "status": "active",
+      "expiry": "2025-01-01 10:00:00",
+      "personal_notice": "আপনার জন্য বিশেষ অফার চলছে!",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
+    },
+    {
+      "id": "DEVICE_ID_DEMO_3",
+      "name": "Demo User 3",
+      "key": "KEY-333",
+      "status": "blocked",
+      "expiry": "none",
+      "personal_notice": "ভাই, আপনি প্যানেলের নিয়ম ভেঙেছেন তাই আপনাকে ব্লক করা হলো।",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
+    },
+    {
+      "id": "DEVICE_ID_DEMO_4",
+      "name": "Demo User 4",
+      "key": "KEY-444",
+      "status": "active",
+      "expiry": "2024-12-31 23:59:59",
+      "personal_notice": "আপনার লাইসেন্স প্রায় শেষ পর্যায়ে।",
       "personal_version": "1.1",
-      "personal_update_msg": " নতুন আপডেট এসেছে দয়া করে আপডেট দেন ",
+      "personal_update_msg": "আপনার জন্য একটি নতুন ব্যক্তিগত আপডেট আছে!",
       "personal_update_url": "https://t.me/Sanny_king_zz"
     },
     {
-      "id": "DEVICE_ID_2",
-      "name": "Demo User",
-      "key": "KEY-123",
+      "id": "DEVICE_ID_DEMO_5",
+      "name": "Demo User 5",
+      "key": "KEY-555",
       "status": "active",
       "expiry": "none",
-      "personal_notice": "আপনার জন্য বিশেষ অফার!",
-      "personal_version": "1.1",
-      "personal_update_msg": "আপনার জন্য আলাদা একটি আপডেট আছে!",
-      "personal_update_url": "https://t.me/Sanny_king_zz"
+      "personal_notice": "আনলিমিটেড লাইসেন্স অ্যাক্টিভেটেড।",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
     }
   ]
 }
