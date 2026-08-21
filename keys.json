@@ -11,12 +11,13 @@
   },
   "users": [
     {
-      "id": "28ccf7adadc16dd5",
-      "name": "Sanny Admin",
-      "key": "SANNY-VIP-77",
-      "status": "banned",
+      "id": "",
+      "name": "",
+      "key": "
+      ",
+      "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "personal_notice": " অ্যাপটিকে নতুন করে মোট করার জন্য আপনাকে ব্যান্ড করা হয়েছে ",
+      "personal_notice": "  ",
       "personal_version": "1.0",
       "personal_update_msg": " আপনার এমটি আপডেট করুন এটি নতুন আপডেট এসেছে ",
       "personal_update_url": "ugjchcjvlbkzk"
